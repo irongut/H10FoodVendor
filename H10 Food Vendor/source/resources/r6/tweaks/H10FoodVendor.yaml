@@ -1,0 +1,50 @@
+Character.irongut_h10foodvendor:
+  $base: Character.vendorsxl_base
+  appearanceName: service__vendor_wa__wat_nid_foodshop_02
+  entityTemplatePath: base\characters\entities\service\service__vendor_wa.ent
+  affiliation: Factions.Civilian
+  displayName: LocKey#65547
+  holocallInitializerPath: base\workspots\bar\bar\generic__stand_bar__work__01.workspot
+  bossHealthBarThresholds: [-1437.346, 1257.46, 23.090, 0, 0,  0.4107, -0.9118]
+  items:
+    - Items.Preset_Chefs_Knife_Default
+    # Food
+    - Items.LowQualityFood11          # CAT FOOD
+    - Items.HawtDawgCheese						# CHEESE HAWTDAWG
+    - Items.HawtDawgChilli						# CHILLI HAWTDAWG
+    - Items.MediumQualityFood10				# JAMBALAYA
+    - Items.LowQualityFood22					# LEELOU BEANS PLANTAIN
+    - Items.LowQualityFood23					# LEELOU BEANS TROPICAL
+    - Items.LowQualityFood5						# MOONCHIES
+    - Items.LowQualityFood19					# MOONCHIES SOUR PLANET
+    - Items.GoodQualityFood6					# NIGIRI
+    - Items.GoodQualityFood5					# NORIMAKI
+    - Items.MediumQualityFood2				# RAMMMMEN
+    - Items.NomadsFood1               # SOY PASTE
+    - Items.GoodQualityFood2          # TAJINE
+    - Items.LowQualityFood10					# WONTONS
+    - Items.MediumQualityFood8				# YIKES TOFU
+    - Items.GoodQualityFood10					# LOCUST PEPPERONI PIZZA
+    - Items.GoodQualityFood12					# TOFU'D TUNA PINEAPPLE PIZZA
+    - Items.JudyFood1						      # HAM AND MUSHROOM PIZZA
+    - Items.sq026_judy_sandwich				# HAM AND CHEESE SANDWICH
+    # Drink
+    - Items.LowQualityAlcohol5				# 21ST STOUT
+    - Items.LowQualityAlcohol3				# BROSEPH ALE
+    - Items.LowQualityAlcohol4				# BROSEPH LAGER
+    - Items.LowQualityDrink6					# CIRRUS COLA 1
+    - Items.LowQualityDrink8					# CIRRUS COLA 3
+    - Items.LowQualityDrink11					# COFFEE
+    - Items.LowQualityDrink12					# COFFEE SYNMILK
+    - Items.LowQualityDrink10					# NICOLA
+    - Items.LowQualityDrink9					# NICOLA BLUE
+    - Items.MediumQualityDrink1				# NICOLA FIRE
+    - Items.MediumQualityDrink3       # REAL WATER 1
+    - Items.MediumQualityDrink4       # REAL WATER 2
+    - Items.LowQualityDrink4					# SPUNKY MONKEY
+    - Items.GoodQualityDrink5					# TE MATCHA
+    - Items.GoodQualityDrink6					# TE SENCHA
+    - Items.MediumQualityDrink8				# TIANCHA KUMQUAT
+    - Items.MediumQualityDrink12			# TIANCHA 1
+  vendorID: Vendors.vendorxl_custom
+  forcedTBHZOffset: 3
