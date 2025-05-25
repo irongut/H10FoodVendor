@@ -55,9 +55,11 @@ Drinks
 
 
 Files
+
 An alternative look for the food vendor is also available as an optional file, see images. Install the main file or the optional file, you only need one. Both versions overwrite each other so you can swap between them if you want to.
 
 Requirements
+
 ArchiveXL
 Codeware
 RED4ext
@@ -66,12 +68,27 @@ TweakXL
 VendorsXL
 
 How to Install
+
 Install all the requirements.
 Download the archive from the files section.
 Unpack the zip file into the "Cyberpunk 2077" folder so that the "H10FoodVendor.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
 
 How to Uninstall
+
 Delete the "H10FoodVendor.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
+
+Also Available:
+The Ubiquitous Chib - Watson
+The Ubiquitous Chib - Dogtown
+The Ubiquitous Chib - North Badlands﻿
+The Ubiquitous Chib - Heywood
+The Ubiquitous Chib - Westbrook
+The Ubiquitous Chib - Santo Domingo
+The Ubiquitous Chib - Black Market﻿
+
+Thanks
+
+Many thanks to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
 
 
 Header Image - Max file size 750kb, JPG, PNG or GIF - size?
