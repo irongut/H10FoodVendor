@@ -10,41 +10,185 @@ Character.irongut_h10foodvendor:
     - Items.Preset_Chefs_Knife_Default
     # Food
     - Items.LowQualityFood11          # CAT FOOD
+    - Items.LowQualityFood11
+    - Items.LowQualityFood11
+    - Items.LowQualityFood11
+    - Items.LowQualityFood11
     - Items.HawtDawgCheese						# CHEESE HAWTDAWG
+    - Items.HawtDawgCheese
+    - Items.HawtDawgCheese
+    - Items.HawtDawgCheese
+    - Items.HawtDawgCheese
     - Items.HawtDawgChilli						# CHILLI HAWTDAWG
+    - Items.HawtDawgChilli
+    - Items.HawtDawgChilli
+    - Items.HawtDawgChilli
+    - Items.HawtDawgChilli
     - Items.MediumQualityFood10				# JAMBALAYA
+    - Items.MediumQualityFood10
+    - Items.MediumQualityFood10
+    - Items.MediumQualityFood10
+    - Items.MediumQualityFood10
     - Items.LowQualityFood22					# LEELOU BEANS PLANTAIN
+    - Items.LowQualityFood22
+    - Items.LowQualityFood22
+    - Items.LowQualityFood22
+    - Items.LowQualityFood22
     - Items.LowQualityFood23					# LEELOU BEANS TROPICAL
+    - Items.LowQualityFood23
+    - Items.LowQualityFood23
+    - Items.LowQualityFood23
+    - Items.LowQualityFood23
     - Items.LowQualityFood5						# MOONCHIES
+    - Items.LowQualityFood5	
+    - Items.LowQualityFood5	
+    - Items.LowQualityFood5	
+    - Items.LowQualityFood5	
     - Items.LowQualityFood19					# MOONCHIES SOUR PLANET
+    - Items.LowQualityFood19
+    - Items.LowQualityFood19
+    - Items.LowQualityFood19
+    - Items.LowQualityFood19
     - Items.GoodQualityFood6					# NIGIRI
+    - Items.GoodQualityFood6
+    - Items.GoodQualityFood6
+    - Items.GoodQualityFood6
+    - Items.GoodQualityFood6
     - Items.GoodQualityFood5					# NORIMAKI
+    - Items.GoodQualityFood5
+    - Items.GoodQualityFood5
+    - Items.GoodQualityFood5
+    - Items.GoodQualityFood5
     - Items.MediumQualityFood2				# RAMMMMEN
+    - Items.MediumQualityFood2
+    - Items.MediumQualityFood2
+    - Items.MediumQualityFood2
+    - Items.MediumQualityFood2
     - Items.NomadsFood1               # SOY PASTE
+    - Items.NomadsFood1
+    - Items.NomadsFood1
+    - Items.NomadsFood1
+    - Items.NomadsFood1
     - Items.GoodQualityFood2          # TAJINE
+    - Items.GoodQualityFood2
+    - Items.GoodQualityFood2
+    - Items.GoodQualityFood2
+    - Items.GoodQualityFood2
     - Items.LowQualityFood10					# WONTONS
+    - Items.LowQualityFood10
+    - Items.LowQualityFood10
+    - Items.LowQualityFood10
+    - Items.LowQualityFood10
     - Items.MediumQualityFood8				# YIKES TOFU
+    - Items.MediumQualityFood8
+    - Items.MediumQualityFood8
+    - Items.MediumQualityFood8
+    - Items.MediumQualityFood8
     - Items.GoodQualityFood10					# LOCUST PEPPERONI PIZZA
+    - Items.GoodQualityFood10
+    - Items.GoodQualityFood10
+    - Items.GoodQualityFood10
+    - Items.GoodQualityFood10
     - Items.GoodQualityFood12					# TOFU'D TUNA PINEAPPLE PIZZA
+    - Items.GoodQualityFood12
+    - Items.GoodQualityFood12
+    - Items.GoodQualityFood12
+    - Items.GoodQualityFood12
     - Items.JudyFood1						      # HAM AND MUSHROOM PIZZA
+    - Items.JudyFood1
+    - Items.JudyFood1
+    - Items.JudyFood1
+    - Items.JudyFood1
     - Items.sq026_judy_sandwich				# HAM AND CHEESE SANDWICH
+    - Items.sq026_judy_sandwich
+    - Items.sq026_judy_sandwich
+    - Items.sq026_judy_sandwich
+    - Items.sq026_judy_sandwich
     # Drink
     - Items.LowQualityAlcohol5				# 21ST STOUT
+    - Items.LowQualityAlcohol5
+    - Items.LowQualityAlcohol5
+    - Items.LowQualityAlcohol5
+    - Items.LowQualityAlcohol5
     - Items.LowQualityAlcohol3				# BROSEPH ALE
+    - Items.LowQualityAlcohol3
+    - Items.LowQualityAlcohol3
+    - Items.LowQualityAlcohol3
+    - Items.LowQualityAlcohol3
     - Items.LowQualityAlcohol4				# BROSEPH LAGER
+    - Items.LowQualityAlcohol4
+    - Items.LowQualityAlcohol4
+    - Items.LowQualityAlcohol4
+    - Items.LowQualityAlcohol4
     - Items.LowQualityDrink6					# CIRRUS COLA 1
+    - Items.LowQualityDrink6
+    - Items.LowQualityDrink6
+    - Items.LowQualityDrink6
+    - Items.LowQualityDrink6
     - Items.LowQualityDrink8					# CIRRUS COLA 3
+    - Items.LowQualityDrink8
+    - Items.LowQualityDrink8
+    - Items.LowQualityDrink8
+    - Items.LowQualityDrink8
     - Items.LowQualityDrink11					# COFFEE
+    - Items.LowQualityDrink11
+    - Items.LowQualityDrink11
+    - Items.LowQualityDrink11
+    - Items.LowQualityDrink11
     - Items.LowQualityDrink12					# COFFEE SYNMILK
+    - Items.LowQualityDrink12
+    - Items.LowQualityDrink12
+    - Items.LowQualityDrink12
+    - Items.LowQualityDrink12
     - Items.LowQualityDrink10					# NICOLA
+    - Items.LowQualityDrink10
+    - Items.LowQualityDrink10
+    - Items.LowQualityDrink10
+    - Items.LowQualityDrink10
     - Items.LowQualityDrink9					# NICOLA BLUE
+    - Items.LowQualityDrink9
+    - Items.LowQualityDrink9
+    - Items.LowQualityDrink9
+    - Items.LowQualityDrink9
     - Items.MediumQualityDrink1				# NICOLA FIRE
+    - Items.MediumQualityDrink1
+    - Items.MediumQualityDrink1
+    - Items.MediumQualityDrink1
+    - Items.MediumQualityDrink1
     - Items.MediumQualityDrink3       # REAL WATER 1
+    - Items.MediumQualityDrink3
+    - Items.MediumQualityDrink3
+    - Items.MediumQualityDrink3
+    - Items.MediumQualityDrink3
     - Items.MediumQualityDrink4       # REAL WATER 2
+    - Items.MediumQualityDrink4
+    - Items.MediumQualityDrink4
+    - Items.MediumQualityDrink4
+    - Items.MediumQualityDrink4
     - Items.LowQualityDrink4					# SPUNKY MONKEY
+    - Items.LowQualityDrink4
+    - Items.LowQualityDrink4
+    - Items.LowQualityDrink4
+    - Items.LowQualityDrink4
     - Items.GoodQualityDrink5					# TE MATCHA
+    - Items.GoodQualityDrink5
+    - Items.GoodQualityDrink5
+    - Items.GoodQualityDrink5
+    - Items.GoodQualityDrink5
     - Items.GoodQualityDrink6					# TE SENCHA
+    - Items.GoodQualityDrink6
+    - Items.GoodQualityDrink6
+    - Items.GoodQualityDrink6
+    - Items.GoodQualityDrink6
     - Items.MediumQualityDrink8				# TIANCHA KUMQUAT
+    - Items.MediumQualityDrink8
+    - Items.MediumQualityDrink8
+    - Items.MediumQualityDrink8
+    - Items.MediumQualityDrink8
     - Items.MediumQualityDrink12			# TIANCHA 1
+    - Items.MediumQualityDrink12
+    - Items.MediumQualityDrink12
+    - Items.MediumQualityDrink12
+    - Items.MediumQualityDrink12
   vendorID: Vendors.vendorxl_custom
   forcedTBHZOffset: 3
