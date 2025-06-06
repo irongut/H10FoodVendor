@@ -1,14 +1,17 @@
 Mod Page: H10 Food Vendor
+https://www.nexusmods.com/cyberpunk2077/mods/21329
 
 Category = Vendors
 Name = H10 Food Vendor
 Language = n/a
-Version = 1.0.0
+Version = 1.1.0
 Author = Irongut
 Overview = Adds a food vendor to the food stall outside Megabuilding H10.
 Description =
 It always bugged me that Jackie could buy food from the stall outside H10 but V can't and the cook isn't present for most of the game.
 Cosmicgale requested I fix this oversight so I've added a vendor to the stall with a selection of food and drink based on what you can see in the front counter. The vendor is at the left counter so she doesn't intefere with V's conversation with Jackie during The Ripperdoc.
+
+Update: v1.1 increases the quantity of all items to 5.
 
 Food
 
@@ -80,11 +83,11 @@ Delete the "H10FoodVendor.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
 Also Available:
 The Ubiquitous Chib - Watson
 The Ubiquitous Chib - Dogtown
-The Ubiquitous Chib - North Badlands﻿
+The Ubiquitous Chib - North Badlands
 The Ubiquitous Chib - Heywood
 The Ubiquitous Chib - Westbrook
 The Ubiquitous Chib - Santo Domingo
-The Ubiquitous Chib - Black Market﻿
+The Ubiquitous Chib - Black Market
 
 Thanks
 
