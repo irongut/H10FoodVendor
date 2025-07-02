@@ -35,7 +35,6 @@ Food
     Tofu'd Tuna Pineapple Pizza
     Ham And Cheese Sandwich
 
-
 Drinks
 
     21st Stout
@@ -56,10 +55,11 @@ Drinks
     Tiancha
     Tiancha Kumquat
 
-
 Files
 
-An alternative look for the food vendor is also available as an optional file, see images. Install the main file or the optional file, you only need one. Both versions overwrite each other so you can swap between them if you want to.
+An alternative look for the food vendor is also available as an optional file, see images. Install the main file or the optional file, you only need one.
+
+Both versions overwrite each other so you can swap between them if you want to. I recommend saving away from the food stall before swapping or when you reload you may still see the old appearance at first.
 
 Requirements
 
