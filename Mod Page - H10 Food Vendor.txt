@@ -6,15 +6,17 @@ Name = H10 Food Vendor
 Language = n/a
 Version = 1.1.0
 Author = Irongut
-Overview = Adds a food vendor to the food stall outside Megabuilding H10.
+Overview = Adds a vendor to the food stall outside Megabuilding H10 with a selection of food, drink and consumables.
 Description =
 It always bugged me that Jackie could buy food from the stall outside H10 but V can't and the cook isn't present for most of the game.
-Cosmicgale requested I fix this oversight so I've added a vendor to the stall with a selection of food and drink based on what you can see in the front counter. The vendor is at the left counter so she doesn't intefere with V's conversation with Jackie during The Ripperdoc.
+Cosmicgale requested I fix this oversight so I've added a vendor to the stall with a selection of food and drink based on what you can see in the front counter. The vendor is at the left counter so she doesn't interfere with V's conversation with Jackie during The Ripperdoc.
+Stock refreshes after 1 hour. (game time)
 
-Update: v1.1 increases the quantity of all items to 5.
+Updates:
+    v1.2 Adds basic consumables at 1Cyanide101's request.
+    v1.1 Increases the quantity of all items to 5 at ExamModManager's request.
 
 Food
-
     Cat Food
     Cheese Hawtdawg
     Chilli Hawtdawg
@@ -36,7 +38,6 @@ Food
     Ham And Cheese Sandwich
 
 Drinks
-
     21st Stout
     Broseph Ale
     Broseph Lager
@@ -54,6 +55,12 @@ Drinks
     Te Sencha
     Tiancha
     Tiancha Kumquat
+
+Consumables
+    Capacity Booster
+    Health Booster
+    Ram Jolt
+    Stamina Booster
 
 Files
 
