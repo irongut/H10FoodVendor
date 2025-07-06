@@ -190,5 +190,26 @@ Character.irongut_h10foodvendor:
     - Items.MediumQualityDrink12
     - Items.MediumQualityDrink12
     - Items.MediumQualityDrink12
+    # Consumables
+    - Items.CarryCapacityBooster      # CAPACITY BOOSTER
+    - Items.CarryCapacityBooster
+    - Items.CarryCapacityBooster
+    - Items.CarryCapacityBooster
+    - Items.CarryCapacityBooster
+    - Items.HealthBooster             # HEALTH BOOSTER
+    - Items.HealthBooster
+    - Items.HealthBooster
+    - Items.HealthBooster
+    - Items.HealthBooster
+    - Items.MemoryBooster             # RAM JOLT
+    - Items.MemoryBooster
+    - Items.MemoryBooster
+    - Items.MemoryBooster
+    - Items.MemoryBooster
+    - Items.StaminaBooster            # STAMINA BOOSTER
+    - Items.StaminaBooster
+    - Items.StaminaBooster
+    - Items.StaminaBooster
+    - Items.StaminaBooster
   vendorID: Vendors.vendorxl_custom
   forcedTBHZOffset: 3
